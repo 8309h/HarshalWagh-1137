@@ -8,8 +8,7 @@
 
 <h1>Connect with me </h1>
 <h1> Welcome</h>
-<a href="www.linkedin.com/in/harshal-wagh-8a9669229/"rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
-<a href="www.linkedin.com/in/harshal-wagh-8a9669229/"> </a>
+<a href="https://www.linkedin.com/in/WaghHarshal/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
 
 <h1> Languages and Tools </h1>
 
