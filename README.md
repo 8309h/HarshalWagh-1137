@@ -2,8 +2,7 @@
 - 👋 Hi, I’m Harshal
 - 👀 I’m interested in makes the changes.
 - 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on  person better than me.
-- 📫 How to reach harshalwagh201718@gmail.com
+- 💞️ I’m looking to collaborate with some genious people as you.
 
 
 <h1>Welcome</h1>
