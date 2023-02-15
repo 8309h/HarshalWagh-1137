@@ -5,7 +5,7 @@
 
 <h1> About Me</h1>
 
-- 👀 I’m interested in makes the changes.
+- 👀 <b>I’m interested in makes the changes.</b>
 - 💻 Learnt <b>Full Stack Web Development from Masai School</b>
 - 💞🤝 I’m looking to collaborate with some genious people as you.
 
