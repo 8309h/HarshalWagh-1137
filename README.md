@@ -10,7 +10,7 @@
 
 - 👀 <b>I’m interested in makes the changes.</b>
 - 💻 Learnt <b>Full Stack Web Development from Masai School</b>
-- 💞🤝 I’m looking to collaborate with some genious people as you.
+- 🤝 I’m looking to collaborate with some genious people as you.
 
 
 <h1>Connect With Me</h1>
@@ -27,24 +27,32 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=HarshalWagh-1137&style=flat-square&color=blue" alt=""/>
 <h1> Languages and Tools </h1>
-
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,netlify,vscode,figma,github"/>
-<!-- <a href="https://drive.google.com/file/d/1Xts_28p_4MimRII3n7m1d50v9dSt_pVX/view"><img src="https://skillicons.dev/icons?i=html"/>  </a> <span>
-<a href="https://drive.google.com/file/d/1Xts_28p_4MimRII3n7m1d50v9dSt_pVX/view"><img src="https://skillicons.dev/icons?i=figma"/>  </a></span> -->
-
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 <!---
 HarshalWagh-1137✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarshalWagh-1137)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarshalWagh-1137&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Harshal wagh GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshalWagh-1137&count_private=true)](https://github.com/HarshalWagh-1137/github-readme-stats)
+### :fire: My Stats :
+[![Harshal wagh GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshalWagh-1137&count_private=true&theme=dark&background=000001)](https://github.com/HarshalWagh-1137/github-readme-stats)
 <br>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalWagh-1137&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalWagh-1137&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarshalWagh-1137)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshalWagh-1137&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-<img src="https://camo.githubusercontent.com/a7a3e0fdb575fc17a69a80282f46cddf300119bf3e9a8e8c3eb212029a82935d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53352d6637623534765041414141414d2f7468616e6b2d796f752d7468616e6b732e676966"  width="100%" height="50%" >
+
+<div align="start">
+  <img src="https://media.giphy.com/media/3o6nVbpDfXbRv7D1wA/giphy.gif" width="600" height="300"/>
+</div>
+
