@@ -46,10 +46,11 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=HarshalWagh-1137&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :fire: My Stats :
-[![Harshal wagh GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshalWagh-1137&count_private=true&theme=dark&background=000000)](https://github.com/HarshalWagh-1137/github-readme-stats)<span>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshalWagh-1137&theme=dark&background=000000)](https://git.io/streak-stats)</span>
+[![Harshal wagh GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshalWagh-1137&count_private=true&theme=dark&background=000000)](https://github.com/HarshalWagh-1137/github-readme-stats)<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalWagh-1137&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshalWagh-1137&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalWagh-1137&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
